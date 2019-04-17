@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:insta/insta_home.dart';
+
 void main()=> runApp(new MyApp());
 
 class MyApp extends StatelessWidget{
