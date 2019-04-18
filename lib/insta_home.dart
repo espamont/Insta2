@@ -25,7 +25,7 @@ final topBar = new AppBar(
 
     return new Scaffold(
       appBar: topBar,
-      body: Instabody(),
+      body: InstaBody(),
       bottomNavigationBar: new Container(
         color: Colors.white,
         height: 64.0,
